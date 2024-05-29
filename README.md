@@ -1,4 +1,4 @@
-# Javascript
+# Customer success balancing challenge
 ## Como rodar os testes
 
 No terminal, execute os comandos:
